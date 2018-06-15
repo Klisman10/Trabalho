@@ -1,0 +1,8 @@
+{
+  "name": "COPA 2018",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
